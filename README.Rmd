@@ -1,0 +1,36 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# Power
+
+This is a minimal working example of an R package
+
+## Installation
+
+You can install the development version of Power like so:
+
+Package installation can be done directly by calling
+'devtools::install_github("norakru/powers")'
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example}
+library(Power)
+## basic example code
+square(6)
+```
+
