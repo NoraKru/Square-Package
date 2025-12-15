@@ -1,6 +1,6 @@
 Package: Power
 Type: Package
-Title: Easy computations of power
+Title: Easy computations of power and root
 Version: 0.1.0
 Authors@R: c(
     person(
@@ -9,8 +9,7 @@ Authors@R: c(
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
+Description: It gives you the square or the roots of values and vectors
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
